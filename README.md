@@ -1,1 +1,2 @@
 # Git-tut
+edited readme
