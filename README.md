@@ -1,2 +1,2 @@
 # Git-tut
-edited readme
+Welcome to the Git Tutorial
