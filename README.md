@@ -1,4 +1,4 @@
 # Git-tut
-Welcome to the Git Tutorial
+Plz leave the Git Tutorial
 
 This was really boring!
