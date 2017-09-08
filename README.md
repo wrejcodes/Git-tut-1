@@ -1,4 +1,4 @@
 # Git-tut
 Welcome to the Git Tutorial
 
-This was really cool~!
+This was really boring!
